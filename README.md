@@ -258,11 +258,12 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Nyong Mercy</summary>
-    <summary>Edem Ukoh</summary>
+    <summary>Abebe Dadi</summary>
+    <summary>Tewodros Woldetsadik</summary>
     <ul>
-    <li><a href="https://www.github.com/nyongmercy">Github</a></li>
-    <li><a href="mailto:nyongmercy@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/EdemEssang">Github</a></li>                 <li><a href="mailto:edemukohassociates@outlook.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Abewok">Github</a></li>
+    <li><a href="mailto:Abewog@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/TeddyT21">Github</a></li>                 
+    <li><a href="mailto:Tmt2164@gmail.com">e-mail</a></li>
     </ul>
 </details>
