@@ -258,12 +258,10 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Abebe Dadi</summary>
-    <summary>Tewodros Woldetsadik</summary>
+    <summary> Abebe Dadi </summary>
+    <summary> Tewodros Woldetsadik </summary>
     <ul>
-    <li><a href="https://www.github.com/Abewok">Github</a></li>
-    <li><a href="mailto:Abewog@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/TeddyT21">Github</a></li>                 
-    <li><a href="mailto:Tmt2164@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Abewok">Github</a> and  Email Address <a href="mailto:Abewog@gmail.com">e-mail</a> </li>
+    <li><a href="https://www.github.com/TeddyT21">Github</a> and Email Address: <a href="mailto:Tmt2164@gmail.com">e-mail</a> </li>
     </ul>
 </details>
