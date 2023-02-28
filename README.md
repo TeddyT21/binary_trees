@@ -257,7 +257,5 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Authors
-
-## Authors
 [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abewok/) Abebe Dadi</br>
 [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeddyT21/) Tewodros Woldetsadik
